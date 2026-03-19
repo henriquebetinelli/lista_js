@@ -10,5 +10,3 @@ function ordenarNumerosDecresente() {
     }
     alert("Numeros em ordem decresente: \n" + numeros.sort((a, b) => b - a).join(', '));
 }
-
-ordenarNumerosDecresente()

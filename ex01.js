@@ -13,5 +13,3 @@ function somarNumeros() {
     }
     alert("A soma dos numeros é: " + soma);
 }
-
-//somarNumeros()

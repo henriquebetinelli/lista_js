@@ -4,5 +4,3 @@ function contagemNasa() {
     }
     alert("Lançamento realizado!!");
 }
-
-//contagemNasa()
